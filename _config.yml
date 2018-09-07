@@ -1,13 +1,13 @@
 # Site settings
 title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Be better perosn"
 url:            "https://getww1092.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Like_gg
+  url:          https://github.com/getww1092
+  email:        quaint3@gmail.com
 
 # Build settings
 markdown:       kramdown
